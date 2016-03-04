@@ -1,0 +1,25 @@
+{
+  "name": "indra",
+  "version": "1.0.0",
+  "description": "Uber for Financial Services Consulting",
+  "main": "contractor-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/4df46254e68128ebfe0c.git"
+  },
+  "keywords": [
+    "UberProject"
+  ],
+  "author": "Indra Bijay Narayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/4df46254e68128ebfe0c"
+  },
+  "homepage": "https://gist.github.com/4df46254e68128ebfe0c",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}
